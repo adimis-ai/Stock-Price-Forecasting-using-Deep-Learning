@@ -45,11 +45,3 @@ Please note that the training process might take some time, depending on your ha
 ## Results
 
 The script will generate a plot showing the forecasted stock prices (based on 10 simulations) and the true stock prices from the test dataset. The average accuracy of the forecasts will also be displayed on the plot.
-
-## License
-
-This project is licensed under the MIT License.
-
-## Acknowledgments
-
-The code for the deep learning model is based on the work of [Author's Name](https://link-to-original-work-if-applicable).
